@@ -1,0 +1,13 @@
+# AzureCloud-Manager
+
+## Übersicht
+Dies ist ein VB.NET-Tool zur Verwaltung von Azure-Ressourcen mithilfe des Azure SDK. Es ermöglicht die Authentifizierung bei Azure, das Auflisten von Ressourcengruppen und das Verwalten von Cloud-Ressourcen.
+
+## Installation
+- Installieren Sie Visual Studio mit VB.NET-Unterstützung.
+- Installieren Sie die folgenden NuGet-Pakete:
+  - Microsoft.Azure.Management.Fluent
+  - Microsoft.Rest.ClientRuntime.Azure.Authentication
+
+## Verwendung
+Führen Sie das Tool aus, und es listet alle Ressourcengruppen im angegebenen Azure-Abonnement auf.
